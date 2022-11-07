@@ -1,0 +1,5 @@
+banana
+pera
+morango
+melancia
+tomate
